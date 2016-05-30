@@ -1,0 +1,61 @@
+@import url(reset.css);
+
+
+/*-------------------Body styles--------------------------*/
+
+body{   
+   font-family: 'Philosopher', Arial, sans-serif;
+   font-size: 1em;
+   color: #000;	
+}
+
+
+
+/*-------------------Header styles-------------------------*/
+
+
+
+
+/*-------------------Other sections styles------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	
+}
+
+/* Extra Small Devices, Phones, Custom styles */
+@media only screen and (max-width : 320px) {
+	
+}
+
